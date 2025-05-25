@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\project b",
-    "\\project b\\nick-resume"
+    "\\projectb",
+    "\\projectb\\nick-resume",
+    "\\projectb\\nick-resume\\assets",
+    "\\projectb\\nick-resume\\assets\\img"
   ],
-  "SelectedNode": "\\project b\\nick-resume\\index.html",
+  "SelectedNode": "\\projectb\\nick-resume\\assets\\img\\rosterphoto.jpg",
   "PreviewInSolutionExplorer": false
 }
