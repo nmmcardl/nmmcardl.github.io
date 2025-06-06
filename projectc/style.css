@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  color: navy;
+  text-align: center;
+}
+
+.media-section {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  background-color: white;
+  border: 1px solid #ccc;
+  max-width: 800px;
+  margin: auto;
+}
+
+.media-section img {
+  max-width: 300px;
+  border-radius: 8px;
+}
+
+.media-text {
+  flex: 1;
+}
