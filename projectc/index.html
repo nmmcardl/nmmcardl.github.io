@@ -49,11 +49,34 @@
             </tr>
         </tbody>
 
-    </table>
+        </table>
 
     </section>
     
     <section>
+        <style>
+        .media-section {
+            display: flex;
+            align-items: center;     /* Align items vertically */
+            gap: 20px;               /* Space between media and text */
+            padding: 20px;
+            border: 1px solid #ccc;
+            max-width: 800px;
+            margin: auto;
+        }
+
+        .media-section img,
+        .media-section video {
+            max-width: 300px;
+            height: auto;
+            border-radius: 8px;
+        }
+
+        .media-text {
+            flex: 1;                 /* Take up remaining space */
+        }
+        </style>
+
         <h1><strong>Gallery</strong></h1>
 
         <img src="media/bert pic.jfif" alt="Profile Pic">
