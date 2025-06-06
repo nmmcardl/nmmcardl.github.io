@@ -10,6 +10,7 @@ h1 {
 
 .media-section {
   display: flex;
+  flex-direction: column;
   gap: 20px;
   padding: 20px;
   background-color: white;
