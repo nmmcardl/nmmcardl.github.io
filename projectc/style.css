@@ -1,3 +1,12 @@
+/* 
+  Stylesheet generated with assistance from ChatGPT.
+  Custom layout includes:
+    - CSS Grid for two-column layout
+    - Flexbox for media section
+    - Responsive design for smaller screens
+    - Relative and absolute positioning elements
+*/
+
 body {
   font-family: Arial, sans-serif;
   background-color: #f9f9f9;
